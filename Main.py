@@ -7,3 +7,4 @@ print("Hello, %s, i am %d" % (name, age))
 
 print("Hello from 3 branch named fix")
 print("want to add something new!")
+print("want to add something new!")
