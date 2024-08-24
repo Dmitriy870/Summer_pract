@@ -1,0 +1,5 @@
+from random import randint
+
+a = randint(1, 100)
+b = randint(1, 100)
+print("True!") if a > b else print("False!")
